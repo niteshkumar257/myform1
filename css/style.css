@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-logo
+{
+    width: 40px;
+    height: 40px;
+}
+.navbar-height
+{
+height: 15vh;
+}
+.bg 
+{
+  
+    background-color: rgb(200, 208, 208);
+}
+.nav-link
+{
+    color: black;
+}
+.btn-style
+{
+border-color: 10px solid black;
+color: white;
+}
+.btn-style:hover
+{
+    background-color: azure;
+    color: black;
+    background-color: rgb(29, 137, 232);
+}
+
+.form
+{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.all-form
+{
+   
+    padding: 20px;
+    background-color: rgb(200, 208, 208);
+    height: auto;
+    width: 80vh;
+    box-shadow: 10px 10px 8px #d3cfcf;
+   
+}
+.input-color
+{
+    background-color: rgb(232, 240, 254);
+}
+.form--check
+{
+    margin-top: 10px;
+}
+img
+{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.footer-background
+{
+    background-color:rgb(200, 208, 208) ;
+}
